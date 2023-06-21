@@ -1,4 +1,4 @@
-################################################################################################################
+########################################################################################
 # fundJogos
 game na unity
 
@@ -11,4 +11,4 @@ Baixe o arquivo e execute o executável "Run of the Hills.exe".
 - Quando acha um icone branco (que deveria ser um cutscene dentro da scene atual), este é acessado pela tecla E.
 - Atira no botão esquerdo do mouse.
 (sem suporte para controle)
-################################################################################################################
+#########################################################################################

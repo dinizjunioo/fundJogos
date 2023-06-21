@@ -3,7 +3,7 @@
 # fundJogos
 game na unity
 
-# Observações importante
+# Observação importante
 - Roda apenas em máquinas com sistema operacional windows. Não foi "buildado" para máquinas com linux ou MAC.
 - Fizemos o teste no linux e foi verificado que de fato não funciona mas não fizemos o teste em um MAC-OS.
 

@@ -16,5 +16,6 @@ Baixe o arquivo e execute o executável "Run of the Hills.exe".
 - Quando acha um icone branco (que deveria ser um cutscene dentro da scene atual), este é acessado pela tecla E. Essas mensagens aparece em certas partes do mapa
 assim que o boneco chegar perto o bastante; caso seu boneco passar rápido demais pode ser que não seja visto.
 - Atira no botão esquerdo do mouse. (sem suporte para controle).
-- Shift esquerdo para deslizar (vai ter locais baixos e o personagem só passará por eles se usar isso). 
+- Shift esquerdo para deslizar (vai ter locais baixos e o personagem só passará por eles se usar isso).
+
 #######################################################################################
